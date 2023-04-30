@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\joel_\Documents\Year 2\C\Cyber Security\Assignment 2 - Enigma\EnigmaMachine\EnigmaMachine\main.c(254,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\joel_\Documents\Year 2\C\Cyber Security\Assignment 2 - Enigma\EnigmaMachine\EnigmaMachine\main.c(266,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\joel_\Documents\Year 2\C\Cyber Security\Assignment 2 - Enigma\EnigmaMachine\EnigmaMachine\main.c(920,2): warning C4013: 'exit' undefined; assuming extern returning int
+C:\Users\joel_\Documents\Year 2\C\Cyber Security\Assignment 2 - Enigma\EnigmaMachine\EnigmaMachine\main.c(700,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  EnigmaMachine.vcxproj -> C:\Users\joel_\Documents\Year 2\C\Cyber Security\Assignment 2 - Enigma\EnigmaMachine\x64\Debug\EnigmaMachine.exe
